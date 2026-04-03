@@ -1,1 +1,2 @@
 1주차 수업은 프론트엔드 스터디와 똑같지는 않지만 비슷한 내용들이 나와서 프론트엔드 1주차를 공부한 후에 개발입문을 들으니 훨씬 수월하게 할 수 있었습니다. html에서 <h></h>와 <p></p>를 쓰는 법을 확실하게 익힐 수 있었고, git bash에서 git status, git add, git summit -m, git push 과정을 익힐 수 있었습니다. vercel에서 프로젝트를 만들어 url을 배포하는 과정과 선택과제인 이미지 태그도 따로 공부해볼 수 있어 뿌듯했습니다.
+https://dev-intro-study-bhku.vercel.app/
